@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>ConsoleApp1</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CsvHelper" Version="34.0.0" />
+      <PackageReference Include="FluentValidation" Version="12.2.0" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="11.0.0" />
+    </ItemGroup>
+
+</Project>

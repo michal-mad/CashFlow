@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlowApp", "CashFlowApp\CashFlowApp.csproj", "{86C06F99-4318-4699-A2FE-526F62C23487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashFlowApp.Tests", "CashFlowApp.Tests\CashFlowApp.Tests.csproj", "{3A356B86-16E9-45D3-A2D9-F1A40056D441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C06F99-4318-4699-A2FE-526F62C23487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C06F99-4318-4699-A2FE-526F62C23487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C06F99-4318-4699-A2FE-526F62C23487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C06F99-4318-4699-A2FE-526F62C23487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A356B86-16E9-45D3-A2D9-F1A40056D441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A356B86-16E9-45D3-A2D9-F1A40056D441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A356B86-16E9-45D3-A2D9-F1A40056D441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A356B86-16E9-45D3-A2D9-F1A40056D441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
